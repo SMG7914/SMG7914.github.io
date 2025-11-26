@@ -1,6 +1,4 @@
 # SMG7914.github.io
-# SMG7914.github.io
-
 
 
 Nigeria Weather Forecasting Model for Smart Farming
